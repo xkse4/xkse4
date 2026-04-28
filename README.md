@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm xkse4, A personal developer from China, 15.y.o.   EN/CN</div>  
+### <div align="center">I'm xkse4, A personal developer from China, 15.y.o.</div>  
   
 
 - 🔭 I’m currently working on Linux kernel  
@@ -13,11 +13,11 @@
   
 
 - 💻 My daily drivers: Arch Linux / Windows 11  
-  
+
 
 - 📫 How to reach me: xkse4@outlook.com / QQ：1684258807  
   
-
+- Languages: English / Simplified Chinese
 <br/>  
 
 
