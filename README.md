@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Linux kernel  
   
 
-- 🌱 I’m currently learning Rust / Kotlin  
+- 🌱 I’m currently learning Rust / Kotlin / Cybersecurity
   
 
 - 💻 My daily drivers: Arch Linux / Windows 11  
