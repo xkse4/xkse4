@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: xkse4@outlook.com / QQ：1684258807  
   
-- Languages: English / Simplified Chinese
+- Languages: English / Chinese
 <br/>  
 
 
